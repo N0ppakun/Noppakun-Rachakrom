@@ -31,3 +31,20 @@
    ```
 
 4. สแกน QR Code ผ่านแอป **Expo Go** บนอุปกรณ์มือถือ (Android/iOS) เพื่อเปิดใช้งานแอป
+
+# ขั้นตอนการ Build APK 
+
+1. ขั้นตอนที่1เข้าโฟลเดอร์โปรเจ็ค:
+
+   ```bash
+   cd Noppakun-Rachakrom
+   ```
+
+2. ขั้นตอนที่2เขียนคำสั่งEAS:
+
+   ```bash
+   `eas build -p android --profile preview`
+   ```
+# ลิ้งค์ยูทูป
+
+อยู่ในไฟล์LinkYoutube.txt
