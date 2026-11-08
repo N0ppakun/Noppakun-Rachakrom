@@ -45,6 +45,6 @@
    ```bash
    `eas build -p android --profile preview`
    ```
-# ลิ้งค์ยูทูป
+# คลิปวีดิโอคู่มือการใช้แอป
 
 อยู่ในไฟล์LinkYoutube.txt
