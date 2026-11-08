@@ -47,4 +47,4 @@
    ```
 # คลิปวีดิโอคู่มือการใช้แอป
 
-อยู่ในไฟล์LinkYoutube.txt
+https://youtu.be/I2RuQW2eqdo
